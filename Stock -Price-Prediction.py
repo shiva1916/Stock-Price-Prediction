@@ -101,7 +101,7 @@ rmse = np.sqrt(mean_squared_error(actual_prices, predicted_prices))
 print(f'Root Mean Squared Error: {rmse}')
 
 
-# In[ ]:
+
 
 
 
